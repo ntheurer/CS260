@@ -5,6 +5,8 @@ body {
 h1 {
 	color: purple;
 	text-align: center;
+	border-left: 6px solid yellow;
+	border-right: 6px solid yellow;
 }
 
 p {
